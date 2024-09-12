@@ -9,4 +9,4 @@ Developed a machine learning model for assessing credit risk by analyzing altern
 - **Machine Learning**: XGBoost, Random Forest, LightGBM for credit risk classification
 - **Data Engineering**: Data scraping using BeautifulSoup, feature engineering with PySpark
 - **NLP for Alternative Data**: Sentiment analysis from borrower communications and social media using NLP techniques
-- **Automated Reporting**: Tableau/PowerBI dashboards for real-time monitoring and reporting of credit risk scores
+- **Automated Reporting**: PowerBI dashboards for real-time monitoring and reporting of credit risk scores
